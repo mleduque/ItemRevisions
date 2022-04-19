@@ -1,11 +1,11 @@
 2DA V1.0
 1
                         RATE
-MAGE                    4
+MAGE                    6
 FIGHTER                 1
-CLERIC                  2
-THIEF                   3
-BARD                    6
+CLERIC                  4
+THIEF                   5
+BARD                    8
 PALADIN                 1
-DRUID                   2
-RANGER                  1
+DRUID                   4
+RANGER                  3
